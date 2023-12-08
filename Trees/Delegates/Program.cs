@@ -4,11 +4,11 @@ using Trees.Delegates;
 using Trees.HRAdministrationAPI;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-class Program
+class ProgramTemp
 {
-    public delegate void logDel(string message);
-    static void Main()
+    static void MainTemp()
     {
-
+        Delegates obj = new Delegates();
+        Delegates.testDelegateFunc?.Invoke();
     }
 }
