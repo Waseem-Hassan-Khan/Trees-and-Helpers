@@ -10,7 +10,7 @@
   <ItemGroup>
     <Folder Include="ClubMemberShipApplication\Models\" />
     <Folder Include="LINQ\" />
-    <Folder Include="Events\" />
+    <Folder Include="Binary Search Tree\" />
   </ItemGroup>
 
   <ItemGroup>

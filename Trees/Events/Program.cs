@@ -1,6 +1,13 @@
 ﻿using System;
 
-class Program
+  
+/* 
+ * Events in C#
+ * A mechanism for communication between objects
+ * Used to build loosley coupled application.
+ * Helps extending application.
+ */
+class ProgramEvents
 {
     private event EventHandler onSpacePressed;
 
